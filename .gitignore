@@ -1,0 +1,15 @@
+# Conda / Python
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Large intermediate data
+*.tsv
+*.csv
+*.faa
+*.fasta
+*.h5
+*.h5ad

@@ -1,0 +1,15 @@
+name: bacterial_systems_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - blast
+  - ipykernel
+  - pandas
+  - openpyxl
+  - matplotlib
+  - seaborn
+  - cobra
+  - requests
+  - biopython
+
