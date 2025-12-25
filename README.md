@@ -1,4 +1,6 @@
-# Compound X effects on *Citrobacter rodentium*
+# Systems biology analysis of *Citrobacter rodentium*
+Tahila Andrighetti  
+September 2025
 
 ## Overview
 
@@ -59,7 +61,7 @@ It focuses on **methods and implementation**, rather than biological interpretat
 
 ---
 
-## Main analysis workflows
+## Main analysis workflow
 
 - **01. Virulence factors (VF) analysis**
   - BLAST-based identification of virulence-associated DEGs using VFDB
@@ -70,12 +72,12 @@ It focuses on **methods and implementation**, rather than biological interpretat
 
 Detailed methodological notes and analytical rationale are available in:
 
-📄 `docs/PROJECT_NOTES.md`
+📄 `PROJECT_NOTES.md`
 
 
 --- 
 
-## Network visualizations
+## RESULTS: Network visualizations
 
 The resulting interaction networks generated in this analysis are included in this repository as two separate files: `net1.png` and `net2.png`.
 
