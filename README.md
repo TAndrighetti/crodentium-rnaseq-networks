@@ -1,4 +1,4 @@
-# Systems biology analysis of *Citrobacter rodentium*
+# Systems biology analysis of *Citrobacter rodentium* RNAseq
 Tahila Andrighetti  
 September 2025
 
